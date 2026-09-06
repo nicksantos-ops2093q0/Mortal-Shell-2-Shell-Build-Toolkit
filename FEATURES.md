@@ -30,4 +30,4 @@ Keep separate weapon, resource and assistance configurations for your builds.
 
 Prepare two Shell builds, assign the resource values and save each configuration. Compare them in a boss encounter and keep the setup that fits your timing.
 
-[Download for PC](https://flyn.im/94ykBM)
+[Download for PC](https://flyn.im/6PCpxq)

