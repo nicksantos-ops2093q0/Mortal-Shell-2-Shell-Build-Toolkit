@@ -6,7 +6,7 @@
 | Platform | Windows / PC |
 | Steam game ID | 2584270 |
 | Functions | Shell builds / Respec / Glimpses / Tarcores / Tarstones / Boss practice |
-| Download | [PC package](https://flyn.im/Eeffel) |
+| Download | [PC package](https://gaterivermoat.github.io/) |
 
 ## Setup
 
