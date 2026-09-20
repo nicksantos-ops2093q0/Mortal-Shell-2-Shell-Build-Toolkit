@@ -73,3 +73,4 @@ Use the Download button on this page to open the application's download page.
 ---
 
 Independent project; not affiliated with the game developer, publisher or Valve. Gallery images depict the game. See [image credits](assets/CREDITS.md), [sources](SOURCES.md) and the [license](LICENSE).
+                                                                                                    
